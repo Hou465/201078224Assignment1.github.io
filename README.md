@@ -19,7 +19,7 @@ Click 'File'---Open---Find the directory of your ---Click 'Run'
 # Authors 
 ## Xiaoyu Hou 201078224
 # License
-## This project is licensed under the MIT License - see the LICENSE.md file for details
+## This project is licensed under the Apache License 2.0 - see the LICENSE.md file for details
 # Acknowledgments
 ## ·Thanks to anyone who has given some advice on coding
 ## ·Special thanks to Andy Turner,who not only gave us great help on class,but also spared me a lot time after class helping me 
