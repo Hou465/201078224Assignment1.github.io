@@ -15,7 +15,7 @@ C:\Users\lenovo\Documents\GitHub\201078224Assignment1.github.io>python GUI.py
 ## *In Spyder
 Click 'File'---Open---Find the directory of your ---Click 'Run'
 # What is to be expected when it is run
-## You can see red 'Wolves' eating green 'Sheaps' within a distance of 10
+## You can see all drunks start from the bar,move randomly, and desity map showed how they randomly walked, till they get home,they stoped.
 # Authors 
 ## Xiaoyu Hou 201078224
 # License
